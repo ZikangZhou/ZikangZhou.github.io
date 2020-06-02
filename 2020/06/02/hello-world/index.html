@@ -321,8 +321,7 @@
                   <i class="fa fa-comment-o"></i>
                 </span>
                 <a href="/2020/06/02/hello-world/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count disqus-comment-count"
-                        data-disqus-identifier="2020/06/02/hello-world/" itemprop="commentCount"></span>
+                  <span class="post-comments-count valine-comment-count" data-xid="/2020/06/02/hello-world/" itemprop="commentCount"></span>
                 </a>
               </span>
             
@@ -421,14 +420,7 @@
 
   
     <div class="comments" id="comments">
-      <div id="disqus_thread">
-        <noscript>
-          Please enable JavaScript to view the
-          <a href="https://disqus.com/?ref_noscript" target="_blank" rel="noopener">comments powered by Disqus.</a>
-        </noscript>
-      </div>
     </div>
-
   
 
 
@@ -699,26 +691,6 @@
 
   
 
-    
-      <script id="dsq-count-scr" src="https://.disqus.com/count.js" async></script>
-    
-
-    
-      <script type="text/javascript">
-        var disqus_config = function () {
-          this.page.url = 'https://zikangzhou.github.io/2020/06/02/hello-world/';
-          this.page.identifier = '2020/06/02/hello-world/';
-          this.page.title = 'Hello World';
-        };
-        var d = document, s = d.createElement('script');
-        s.src = 'https://.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', '' + +new Date());
-        (d.head || d.body).appendChild(s);
-      </script>
-    
-
-  
-
 
 
 
@@ -744,6 +716,28 @@
 
 
 
+
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+  
+  <script type="text/javascript">
+    var GUEST = ['nick','mail','link'];
+    var guest = 'nick';
+    guest = guest.split(',').filter(item=>{
+      return GUEST.indexOf(item)>-1;
+    });
+    new Valine({
+        el: '#comments' ,
+        verify: false,
+        notify: false,
+        appId: 'NcK90bCjTAFC4abQxy96qMbP-gzGzoHsz',
+        appKey: 'C00wnE7cq3RBJd8x6chddhkp',
+        placeholder: 'Comment',
+        avatar:'mm',
+        guest_info:guest,
+        pageSize:'10' || 10,
+    });
+  </script>
 
 
 
