@@ -1097,7 +1097,6 @@ pre .javascript .function {
 }
 .headband {
   height: 3px;
-  background: #222;
 }
 .site-meta {
   margin: 0;
@@ -1823,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #f509a4;
+  background: #edf69c;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2209,6 +2208,19 @@ pre .javascript .function {
   background-color: #78ace9 !important;
   border-color: #4cae4c !important;
 }
+#gitment-display-button {
+  display: inline-block;
+  padding: 0 15px;
+  color: #0a9caf;
+  cursor: pointer;
+  font-size: 14px;
+  border: 1px solid #0a9caf;
+  border-radius: 4px;
+}
+#gitment-display-button:hover {
+  color: #fff;
+  background: #0a9caf;
+}
 .post-spread {
   margin-top: 20px;
   text-align: center;
@@ -2589,7 +2601,7 @@ pre .javascript .function {
 .header {
   position: relative;
   margin: 0 auto;
-  width: 75%;
+  width: 90%;
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .header {
@@ -2649,7 +2661,7 @@ pre .javascript .function {
   }
 }
 .container .main-inner {
-  width: 75%;
+  width: 90%;
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .container .main-inner {
@@ -2708,7 +2720,7 @@ pre .javascript .function {
   display: none;
 }
 .footer-inner {
-  width: 75%;
+  width: 90%;
   padding-left: 260px;
 }
 @media (min-width: 768px) and (max-width: 991px) {
