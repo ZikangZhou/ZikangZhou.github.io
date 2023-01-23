@@ -12,8 +12,8 @@ I am currently a third-year Ph.D. student at the Department of Computer Science,
 
 # Education
 
-- 2020 - Present &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ph.D. in Computer Science, City University of Hong Kong
-- 2016 - 2020 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; BSc in Computer Science and Technology, Nanjing University
+- 2020 - Present &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ph.D. in Computer Science, City University of Hong Kong
+- 2016 - 2020 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; BSc in Computer Science and Technology, Nanjing University
 
 # Publications
 
