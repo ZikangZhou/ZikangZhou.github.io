@@ -6,7 +6,7 @@ excerpt: 'A hierarchical, translation-invariant, and rotation-invariant Transfor
 date: 2022-06-20
 venue: 'CVPR 2022'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_HiVT_Hierarchical_Vector_Transformer_for_Multi-Agent_Motion_Prediction_CVPR_2022_paper.pdf'
-imgurl: 'hivt.pdf'
+imgurl: 'hivt.png'
 show: true
 authors:
     - name: Zikang Zhou
