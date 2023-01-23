@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "HiVT: Hierarchical Vector Transformer for Multi-Agent Motion Prediction"
 collection: publications
 permalink: /publication/hivt
 date: 2022-06-20

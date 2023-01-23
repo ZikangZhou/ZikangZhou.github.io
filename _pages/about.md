@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student at the Department of Computer Science, City University of Hong Kong (CityU), supervised by [Prof. Jianping Wang](https://scholar.google.com/citations?user=bow_liAAAAAJ&hl=en). Before joining CityU, I obtained my Bachelor's degree in Computer Science and Technology at Nanjing University (NJU). I am interested in machine learning applications for autonomous driving, including but not limited to *object detection*, *trajectory prediction*, and *motion planning*.
+I am currently a third-year Ph.D. student at the Department of Computer Science, City University of Hong Kong (CityU), supervised by [Prof. Jianping Wang](https://scholar.google.com/citations?user=bow_liAAAAAJ&hl=en). Before joining CityU, I obtained my Bachelor's degree in Computer Science and Technology at Nanjing University (NJU). I am interested in machine learning applications for autonomous driving, including but not limited to **object detection**, **trajectory prediction**, and **motion planning**.
 
 # Education
 
 - 2020 - Present &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ph.D. in Computer Science, City University of Hong Kong
-- 2016 - 2020 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; BSc in Computer Science and Technology, Nanjing University
+- 2016 - 2020 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; BSc in Computer Science and Technology, Nanjing University
 
 # Publications
 
