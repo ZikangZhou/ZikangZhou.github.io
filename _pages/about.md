@@ -33,9 +33,9 @@ I am currently a third-year Ph.D. student at the Department of Computer Science,
 
 # Professional Services
 
-- Reviewer for CVPR 2023
+- Reviewer of CVPR 2023, ICCV 2023
 
 # Teaching
 
-- Tutor for CS2360 Java Programming, Semester A, 2022/23, City University of Hong Kong
-- Tutor for CS2360 Java Programming, Semester A, 2021/22, City University of Hong Kong
+- Tutor of CS2360 Java Programming, Semester A, 2022/23, City University of Hong Kong
+- Tutor of CS2360 Java Programming, Semester A, 2021/22, City University of Hong Kong
