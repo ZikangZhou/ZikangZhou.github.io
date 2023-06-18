@@ -18,4 +18,6 @@ links:
       link: https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Query-Centric_Trajectory_Prediction_CVPR_2023_paper.pdf
     - name: Github
       link: https://github.com/ZikangZhou/QCNet
+    - name: 經濟日報
+      link: https://money.udn.com/money/story/5612/7184617
 ---
