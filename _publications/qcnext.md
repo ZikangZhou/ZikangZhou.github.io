@@ -1,5 +1,5 @@
 ---
-title: "QCNeXt: A Next-Generation Framework for Joint Multi-Agent Trajectory Prediction"
+title: "QCNeXt: A Next-Generation Framework For Joint Multi-Agent Trajectory Prediction"
 collection: publications
 permalink: /publication/qcnext
 excerpt: 'A query-centric paradigm for trajectory prediction, enabling streaming scene encoding, joint multi-agent decoding, multi-modal and long-term prediction.'
