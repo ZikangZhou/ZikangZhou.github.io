@@ -20,4 +20,6 @@ links:
       link: https://github.com/ZikangZhou/QCNet
     - name: 經濟日報
       link: https://money.udn.com/money/story/5612/7184617
+    - name: 微信公众号
+      link: https://mp.weixin.qq.com/s/Aek1ThqbrKWCSMHG6Xr9eA
 ---
